@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafultandekar" alt="prafultandekar" /></a> </p>
 
-- 🌱 I’m currently learning Full Stack Web Development [OverStock.com](https://fancy-lamington-961d30.netlify.app/)
+- 🌱 I’m currently learning Full Stack Web Development
 
 - 👨‍💻 All of my projects are available at [https://enchanting-bublanina-ae2615.netlify.app/](https://enchanting-bublanina-ae2615.netlify.app/)
 
