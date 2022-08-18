@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praful Tandekar</h1>
-<h3 align="center">Aspiring Full Stack Web Developer at Masai School School.</h3>
+<h3 align="center">Aspiring Full Stack Web Developer at Masai School .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prafultandekar&label=Profile%20views&color=0e75b6&style=flat" alt="prafultandekar" /> </p>
 
