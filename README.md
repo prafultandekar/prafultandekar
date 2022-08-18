@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafultandekar" alt="prafultandekar" /></a> </p>
 
-- 🌱 I’m currently learning Full Stack Web Development [OverStock.com](https://fancy-lamington-961d30.netlify.app/)
+- 🌱 I’m currently learning Full Stack Web Development
+-  Project  [OverStock.com](https://fancy-lamington-961d30.netlify.app/)
 
 - 💬 Ask me about **React,html,Css,Javascript,Redux**
 
