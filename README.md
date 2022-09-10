@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development
 
-- 👨‍💻 All of my projects are available at [https://enchanting-bublanina-ae2615.netlify.app/](https://enchanting-bublanina-ae2615.netlify.app/)
+- 👨‍💻 All of my projects are available at https://prafultandekar-portfolio.netlify.app
 
 - 💬 Ask me about **React,html,Css,Javascript,Redux**
 
