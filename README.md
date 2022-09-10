@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prafultandekar1997@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oFIAo1ItZSCVitMbNF4BNb9UHNdlste3ScKqMSE_DaI/edit#](https://docs.google.com/document/d/1oFIAo1ItZSCVitMbNF4BNb9UHNdlste3ScKqMSE_DaI/edit#)
+- 📄 Know about my experiences https://drive.google.com/file/d/1CAqw5vVJWPd7EG79nTFd5LO1WXQjHdjZ/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
