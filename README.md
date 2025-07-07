@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development
 
-- 👨‍💻 All of my projects are available at https://tandekar-portfolio.netlify.app/
+- 👨‍💻 All of my projects are available at https://prafultandekar.netlify.app/
 
 - 💬 Ask me about **React,html,Css,Javascript,Redux**
 
